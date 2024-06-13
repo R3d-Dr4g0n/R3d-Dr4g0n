@@ -10,18 +10,18 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/personal%20pic/200w.gif"/>
+<img align="right" alt="GIF" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/personal%20pic/200w.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on building and learning **Full-Stack Web Applications**
-- &nbsp; Languages comfortable with- C/C++, Python, Java and Jaavascript
-- 🌱 &nbsp; I’m currently learning Backend Development; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]([https://github.com/R3d-Dr4g0n?tab=repositories])
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dipayan-kar-0b887b22b/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AXCdZCH_U3Cj9AgowfO_crOWYyEaMiQM/view?usp=sharing)
-- ⚽ &nbsp; When I am free, I watch anime and Football
+- 🔭 &nbsp;I’m currently working on building and learning **Full-Stack Web Applications**
+- 💻 &nbsp; Languages comfortable with- C/C++, Python, Java and Javascript
+- 🌱 &nbsp;I’m currently learning Backend Development
+- 👨🏻‍💻 &nbsp;Most of my projects are available on [Github]([https://github.com/R3d-Dr4g0n?tab=repositories])
+- 💬 &nbsp;Ask me about anything tech related, I am happy to help
+- 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dipayan-kar-0b887b22b/)
+- 📝 &nbsp;Checkout my [resume](https://drive.google.com/file/d/1AXCdZCH_U3Cj9AgowfO_crOWYyEaMiQM/view?usp=sharing)
+- ⚽ &nbsp;When I am free, I watch anime and Football
 
 <br>
 
