@@ -21,7 +21,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dipayan-kar-0b887b22b/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1AXCdZCH_U3Cj9AgowfO_crOWYyEaMiQM/view?usp=sharing)
-- 📚 &nbsp; When I am free, I watch anime and Football
+- ⚽ &nbsp; When I am free, I watch anime and Football
 
 <br>
 
