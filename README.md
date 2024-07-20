@@ -1,11 +1,13 @@
 ## Hey 👋, I'm Dipayan Kar!
+<p>
 <a href='https://www.linkedin.com/in/dipayan-kar-0b887b22b/'><img align='left' alt="linkedin" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/St3r0idalAp3'><img align='left' alt="twitter" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.instagram.com/_dipayan_kar_/'><img align='left' alt="Instagram" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/assets/instagram.svg" height='18px'/></a>
+<a href='https://www.instagram.com/_dipayan_kar_/'><img align='left' alt="Instagram" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/assets/instagram.svg" height='18px'/></a></p>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debnath6296&label=Profile%20views&color=0e75b6&style=flat" alt="debnath6296" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=R3d-Dr4g0n&label=Profile%20views&color=0e75b6&style=flat" alt="R3d-Dr4g0n" /> </p>
+
 <br>
 
 ### About Me
@@ -49,7 +51,12 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3d-Dr4g0n&show_icons=true&locale=en&layout=compact" alt="dR3d-Dr4g0n" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R3d-Dr4g0n&show_icons=true&locale=en" alt="R3d-Dr4g0n" /></p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=R3d-Dr4g0n&" alt="R3d-Dr4g0n" /></p>
 
 
 <br>
