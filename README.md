@@ -3,6 +3,7 @@
 <a href='https://x.com/St3r0idalAp3'><img align='left' alt="twitter" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.instagram.com/_dipayan_kar_/'><img align='left' alt="Instagram" src="https://github.com/R3d-Dr4g0n/R3d-Dr4g0n/blob/main/assets/instagram.svg" height='18px'/></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debnath6296&label=Profile%20views&color=0e75b6&style=flat" alt="debnath6296" /> </p>
 <br>
 
 ### About Me
