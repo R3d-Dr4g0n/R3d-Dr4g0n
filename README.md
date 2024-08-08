@@ -11,7 +11,7 @@
 <br>
 
 ### About Me
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Python and Java Enthusiast) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. I am currently pursuing my Btech degree in 3rd Year of Information Technology Department of Jalpaiguri government Engineering College.
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Python and Java Enthusiast) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. I am currently pursuing my Btech degree in 4th Year of Information Technology Department of Jalpaiguri government Engineering College.
 <br/>
 <br/>
 
